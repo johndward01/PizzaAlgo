@@ -2,4 +2,4 @@
 2. Wait for Pizza
 3. Once delivery is complete, pay driver
 4. Eat pizza
-5. If order is incorrect, pizza is free
+5. If order is incorrect, pizza is free or they will go back to the store and get you a new one
