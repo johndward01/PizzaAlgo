@@ -2,3 +2,4 @@
 2. Choose the pizza from the menu
 3. Order the pizza 
 4. Pay the delivery driver
+5. Eat the pizza
